@@ -1,0 +1,56 @@
+body {
+background-image: url(ModernRB.jpg);
+margin-color: #1a1a1a;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-left: 200px;
+margin-right: 200px;
+margin-style: solid;
+background-attachment: fixed;
+}
+
+h1 {
+color: red;
+border: 4px solid black;
+margin-left: 450px;
+margin-right: 450px;
+background-image: url(ModernRB2.jpg)
+}
+
+p{
+color: #cc0000;
+font-family: cooper black;
+front-size: 30px;
+background-color: #333333;
+padding: 10px;
+border-color: black;
+border-width: 2px;
+border-style: solid;
+margin-left: 250px;
+margin-right: 250px;
+background-image: url(ModernRB2.jpg)
+}
+
+a {
+color: #cc0000;
+font-family: cooper black;
+front-size: 30px;
+background-color: #333333;
+padding: 10px;
+border-color: black;
+border-width: 2px;
+border-style: solid;
+margin-left: -285px;
+background-image: url(ModernRB2.jpg)
+}
+
+img {
+width: 40%;
+height: auto;
+margin-left: 340px;
+background-color:#333333;
+padding: 2px;
+border-color: black;
+border-width: 2px;
+border-style: solid;
+}

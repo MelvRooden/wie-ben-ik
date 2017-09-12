@@ -1,0 +1,60 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+
+  <title>Wie ben ik</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+
+  <link rel="stylesheet" href="StyleSheet1">
+
+</head>
+
+<body>
+
+  <h1>Over mezelf.</h1>
+  <p>Mijn naam is Mel van Rooden en ik ben 17 jaar oud.<br>
+  Mijn hobby's zijn gamen en snowboarden.<br>
+  In mijn vrijetijd zit ik meestal achter de computer.<br>
+  Als we op vakantie gaan snowboard ik.<br>
+  Mijn doel op het moment is mijn opleiding halen, en voor de rest weet ik het nog niet echt.<br>
+  Ik ben berijd om thuis mijn opdrachten te verbeteren, ook zoek ik benodigde informatie op.</p>
+
+  <img src="WIN_20170911_141531.JPG." alt="Foto van Mel">
+
+  <h1>Woonplaats</h1>
+  <p>Achterdijk : 82 in Nieuwland<br>
+  Postcode      : 4243TM</p>
+
+  <h1>Opleiding</h1>
+  <p>Ik ben geslaagt op VMBO kader niveau, op de school het Gilde in Gorinchem.<br>
+  Ik vond het Gilde over het algemeen een goede school, alleen vond ik het jammer dat ik electro moest volgen naast mijn ICT keuze.<br>
+  Ik ben nu bezig met de opleiding Applicatieontwikkelaar op MBO 4, en dat doe ik op het Da Vinci.<br>
+  Ik heb voor deze opleiding gekozen omdat ik intresse heb in ICT.<br>
+  De rede dat ik Applicatieontwikkelaar heb gekozen is omdat het me het leukst lijk van alle ICT richtingen.<br>
+  Ik blijf gemotiveerd in het vak omdat ik het best wel leuk vind om bijvoorbeeld een website te maken.<br>
+  Ik ben thuis soms ook bezig met het verbeteren van een opdracht, zoals een website opknappen.</p>
+  <img src="DavinciGebouw.jpg" alt="Dit is mijn school, het Davinci">
+  <a href="https://www.davinci.nl/">Da Vinci</a>
+
+  <h1>Werk ervaring</h1>
+  <p>Mijn eerste baan was op een boederij waar ik nu en dan hielp.<br>
+  Ik heb bijvoorbeeld de koeien voer gegeven en geveegt.<br>
+  Maar ik vond het werk te vies.</p>
+
+  <p>Mijn eerste stage was bij een bejaardentehuis voor 30 uur.<br>
+  Ik heb geholpen met eten klaar maken, vaatwassen, bejaarden in rolstoelen verplaatsen en spellen helpen opzetten.<br>
+  Ik vond de mensen die er werken aardig, alleen vond ik het niet echt iets voor mij.</p>
+
+  <p>Mijn tweede stage was bij een electro bedrijf voor 3 weken.<br>
+  En mijn derde stage was ook bij dat electro bedrijg maar dan voor 4 weken.<br>
+  Ik heb geholpen met instalaties maken, afmonteren, kabel leggen, draad trekken, opruimen en dingen aangeven.<br>
+  ik vond de mensen die er werken aardig, maar ik vind het niet leuk om op de bouw te werken.</p>
+
+  <p>Ik heb geleerd om samen te werken, maar voor de rest hebben de vakken niet echt veel gemeen.</p>
+<body>
+
+</html>
